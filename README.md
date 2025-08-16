@@ -17,11 +17,12 @@ It provides **class-wise leaderboards** and **individual profiles**, encouraging
 ---
 
 ## 📁 Folder Structure  
+```
 Have/
 ├── frontend/ 
 ├── backend/
 ├── README.md
-
+```
 
 ---
 
@@ -32,4 +33,27 @@ Have/
 ```bash
 git clone https://github.com/akashgarine/Have.git
 cd Have
+```
+Start the backend server:
+
+```bash
+npm run dev
+```
+
+---
+### 🌐 3. Frontend Setup
+
+```bash
+cd ../frontend
+npm install
+npm run dev
+```
+---
+## 📬 Feedback
+
+Have suggestions, found a bug, or want to contribute?
+
+Feel free to [open an issue](https://github.com/akashsiripuram/CivicSphere/issues) or submit a pull request.
+
+Let’s build smarter, safer, and more sustainable cities together 🌍🏙️
 
