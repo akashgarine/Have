@@ -34,12 +34,18 @@ Have/
 git clone https://github.com/akashgarine/Have.git
 cd Have
 ```
+---
+### 🚀 2. Backend Setup
+
+```bash
+cd backend
+npm install
+```
 Start the backend server:
 
 ```bash
 npm run dev
 ```
-
 ---
 ### 🌐 3. Frontend Setup
 
