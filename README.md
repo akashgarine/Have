@@ -53,7 +53,7 @@ npm run dev
 
 Have suggestions, found a bug, or want to contribute?
 
-Feel free to [open an issue](https://github.com/akashsiripuram/CivicSphere/issues) or submit a pull request.
+Feel free to [open an issue](https://github.com/akashsiripuram/Have/issues) or submit a pull request.
 
 Let’s build smarter, safer, and more sustainable cities together 🌍🏙️
 
