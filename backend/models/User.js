@@ -49,7 +49,6 @@ const userSchema = new mongoose.Schema({
     default: "",
   },
 
-  // ✅ Scores for leaderboards
   scores: {
     leetcode: { type: Number, default: 0 },
     codeforces: { type: Number, default: 0 },
